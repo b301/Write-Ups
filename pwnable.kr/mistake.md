@@ -1,3 +1,4 @@
+<h1> mistake </h1>
 First the program checks if it can read the password file at `/home/mistake/password`
 
 Then it prints "Do not bruteforce...",
